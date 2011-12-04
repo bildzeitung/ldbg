@@ -1,0 +1,7 @@
+ldbg is intended to be a Lua IDE and debugger for grownups. 
+
+It will:
+ - integrate with luaJIT and support 64-bit targets
+ - be written in Lua itself
+ - with any luck, be cross-platform
+ 
